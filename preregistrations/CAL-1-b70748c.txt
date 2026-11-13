@@ -1,0 +1,6 @@
+repo https://github.com/WGlynn/cadence-teachers.git
+commit b70748c48963923b86f333d277c72e89ffcbe00d
+tree 10900410b56b24dbfa938c3bef2fa0f2608232f0
+label CAL-1
+stamped 2026-11-13
+backfill: pre-registered earlier, stamped later; proves existence by the stamp date only
