@@ -1,2 +1,3 @@
 {"label": "CAL-1", "commit": "b70748c48963923b86f333d277c72e89ffcbe00d", "repo": "https://github.com/WGlynn/cadence-teachers.git", "stamped": "2026-11-13", "backfill": true, "calendars": 3}
 {"label": "CAL-1b", "commit": "c47fa0f37d71e25306202e075858ca6218e41052", "repo": "https://github.com/WGlynn/cadence-teachers.git", "stamped": "2026-11-16", "backfill": false, "calendars": 3}
+{"label": "EXP-07h", "commit": "16cf487c1245059408173a412ad1468f075302ec", "repo": "https://github.com/WGlynn/cadence-teachers.git", "stamped": "2026-11-17", "backfill": false, "calendars": 3}
