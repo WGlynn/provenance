@@ -1,0 +1,6 @@
+repo https://github.com/WGlynn/cadence-teachers.git
+commit b8c12cecfa6d1e4d95e8a7ec2b18427a33a30063
+tree d38571e7ef3db5fdb516b7ed9f408d03f11dc050
+label EXP-07i
+stamped 2026-11-18
+stamped before data
