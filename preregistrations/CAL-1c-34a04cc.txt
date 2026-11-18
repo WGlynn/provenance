@@ -1,0 +1,6 @@
+repo https://github.com/WGlynn/cadence-teachers.git
+commit 34a04cc929117c079eed5ba6dd78fcc5de8c9768
+tree e37c631b1f5075a36b90c7c36e03481203aa4ca7
+label CAL-1c
+stamped 2026-11-18
+stamped before data
